@@ -1,5 +1,3 @@
-*WIP*
-
 # Syllabus
 
 ## Course 1: Introduction to Recommender Systems: Non-Personalized and Content-Based
@@ -91,4 +89,4 @@ Both groups will produce a capstone report documenting the analysis, the selecte
 
 # Certificate
 
-![Certificate]()
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4FN24T74CUU9/CERTIFICATE_LANDING_PAGE~4FN24T74CUU9.jpeg)
